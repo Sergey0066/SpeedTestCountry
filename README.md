@@ -4,9 +4,7 @@
 
 ## Запуск
 
-Установите последнюю версию:
-
-Скачать приложение: [GitHub Releases](https://github.com/Sergey0066/SpeedTestCountry/releases) (Assets → `SpeedTest Sergey0066.exe`)
+Установите последнюю версию: [SpeedTestCountry](https://github.com/Sergey0066/SpeedTestCountry/releases)
 
 ## Цвета скорости (сеть)
 Числа скорости подсвечиваются так:

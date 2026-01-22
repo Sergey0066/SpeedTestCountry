@@ -1,14 +1,21 @@
 # SpeedTestCountry
-# SpeedTest Country (Speedtest BUTTER)
 
 CLI‑утилита на Python для проверки **скорости скачивания** (Mbps / MB/s) с тестовых серверов в разных странах.  
 Есть режим одного региона, режим **`all`** (по очереди прогоняет все регионы) и режим **`custom`** (тест по своему URL).
 
 ## Запуск
 
-Требуется Python 3.x и зависимости: `requests`, `rich`.
+### Запуск через EXE (рекомендуется)
 
-Из корня проекта:
+Запусти файл:
+
+```bash
+"SpeedTest Sergey0066.exe"
+```
+
+### Запуск из исходников (для разработки)
+
+Требуется Python 3.x и зависимости: `requests`, `rich`.
 
 ```bash
 python "source/SpeedTest Sergey0066.py"
@@ -20,19 +27,19 @@ python "source/SpeedTest Sergey0066.py"
 - **Один регион**:
 
 ```bash
-python "source/SpeedTest Sergey0066.py" --region ru
+"SpeedTest Sergey0066.exe" --region ru
 ```
 
 - **Все регионы (`all`)**: тестирует каждый регион фиксированное время и выводит итоговую таблицу:
 
 ```bash
-python "source/SpeedTest Sergey0066.py" --region all
+"SpeedTest Sergey0066.exe" --region all
 ```
 
 - **Свой URL (`custom`)**:
 
 ```bash
-python "source/SpeedTest Sergey0066.py" --region custom --url "https://example.com/file.bin"
+"SpeedTest Sergey0066.exe" --region custom --url "https://example.com/file.bin"
 ```
 
 ## Полезные параметры
@@ -56,4 +63,5 @@ pyinstaller --onefile --icon "source/icon.ico" "source/SpeedTest Sergey0066.py"
 ```
 
 Готовый файл появится в `dist\` (по умолчанию).
+
 

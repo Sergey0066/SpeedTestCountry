@@ -1,8 +1,6 @@
 # SpeedTestCountry
 
-Утилита для проверки скорости скачивания с серверов в разных странах.
-
-<img width="300" height="300" alt="photo" src="https://github.com/user-attachments/assets/637e4d3a-63d8-4210-b557-f0d41b6d7c5b" />
+Утилита для проверки скорости скачивания с серверов в разных странах. <img width="300" height="300" alt="photo" src="https://github.com/user-attachments/assets/637e4d3a-63d8-4210-b557-f0d41b6d7c5b" />
 
 ## Запуск
 

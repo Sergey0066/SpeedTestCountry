@@ -2,6 +2,8 @@
 
 Утилита для проверки скорости скачивания с серверов в разных странах.
 
+<img width="300" height="300" alt="photo" src="https://github.com/user-attachments/assets/dd1e5425-8373-4514-b52e-a9781f47c84f" />
+
 ## Запуск
 
 Скачать приложение: [SpeedTestCountry](https://github.com/Sergey0066/SpeedTestCountry/releases)

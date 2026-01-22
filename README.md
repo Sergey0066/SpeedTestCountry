@@ -4,10 +4,10 @@
 
 ## Запуск
 
-Запуск из корня папки:
+Установите последнюю версию:
 
 ```bash
-"SpeedTest Sergey0066.exe"
+Скачать приложение: [GitHub Releases](https://github.com/Sergey0066/SpeedTestCountry/releases) (Assets → `SpeedTest Sergey0066.exe`)
 ```
 
 ## Цвета скорости (сеть)

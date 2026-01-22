@@ -6,9 +6,7 @@
 
 Установите последнюю версию:
 
-```bash
 Скачать приложение: [GitHub Releases](https://github.com/Sergey0066/SpeedTestCountry/releases) (Assets → `SpeedTest Sergey0066.exe`)
-```
 
 ## Цвета скорости (сеть)
 Числа скорости подсвечиваются так:

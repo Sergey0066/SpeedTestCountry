@@ -4,7 +4,8 @@
 
 ## Запуск
 
-Установите последнюю версию: [SpeedTestCountry](https://github.com/Sergey0066/SpeedTestCountry/releases)
+<img width="948" height="192" alt="Снимок экрана (2043)" src="https://github.com/user-attachments/assets/c59fec90-cc0e-41b8-9dc6-0294c455497e" />
+
 
 ## Цвета скорости (сеть)
 Числа скорости подсвечиваются так:

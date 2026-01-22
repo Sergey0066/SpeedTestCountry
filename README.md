@@ -1,10 +1,10 @@
 # SpeedTestCountry
 
-Утилита для проверки скорости скачивания с серверов в разных странах. <img width="300" height="300" alt="photo" src="https://github.com/user-attachments/assets/637e4d3a-63d8-4210-b557-f0d41b6d7c5b" />
+Утилита для проверки скорости скачивания с серверов в разных странах.
 
 ## Запуск
 
-<img width="948" height="192" alt="Снимок экрана (2043)" src="https://github.com/user-attachments/assets/c59fec90-cc0e-41b8-9dc6-0294c455497e" />
+Скачать приложение: [SpeedTestCountry](https://github.com/Sergey0066/SpeedTestCountry/releases)
 
 
 ## Цвета скорости (сеть)
